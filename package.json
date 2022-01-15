@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "serve": "^11.3.0"
   }
 }
